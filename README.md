@@ -13,6 +13,9 @@
   6.	Orders by Channels: Analyzes performance by sales channels (online, retail), optimizing distribution strategies.
 **Filters:**
   Month, Days, Channels, Category: Allows for detailed, time-based analysis and targeted   insights.
+
+
+
 **Key Recommendations:**
     Optimize Order Processing: Streamline transitions from "In Process" to "Shipped" to reduce delays.
     Targeted Marketing: Focus on demographic insights (age, gender) to tailor campaigns and promotions.
